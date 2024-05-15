@@ -1,0 +1,1 @@
+Deneme için yaptıgım ufak bir proje ilk izlenimim mükemmel resmen windows tan linux a geçtim gerçi aslında açık kaynak oldugu için teknik anlamda geçmiş bulundum veri tabanı sorugusunu .txt nin içinde bulabilirsiniz
